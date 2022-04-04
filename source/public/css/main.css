@@ -1,0 +1,64 @@
+#seccion {
+    width: 1200px;
+    height: 1000px;
+    background-color: rgb(255, 255, 255);
+    max-width: 0 auto;
+}
+
+body {
+    background-color: rgb(76, 76, 134);
+}
+
+img {
+    display: block;
+    border: 1px sloid rgb(0, 0, 0);
+    margin: 0 auto;
+    border-radius: 4px;
+    padding: 5px;
+    width: 400px;
+}
+
+h1,
+h2,
+h3 {
+    padding-top: .15cm;
+    padding-bottom: 0.10cm;
+}
+
+.divs {
+    padding-top: 0.15cm;
+}
+
+.index1 {
+    padding-top: 0.25cm;
+    text-align: center;
+    font-weight: 900;
+}
+
+.index2 {
+    text-align: justify;
+}
+
+.navbarcss {
+    font-weight: 900;
+    font-size: x-large;
+    padding-top: 0.25cm;
+    padding-bottom: 0.25cm;
+}
+
+.footercss {
+    font-weight: 900;
+    font-size: x-large;
+    padding-top: 0.25cm;
+    padding-bottom: 0.25cm;
+    color: whitesmoke;
+}
+
+.tabla {
+    text-align: center;
+    font-size: large;
+}
+
+.centrado {
+    text-align: center;
+}
